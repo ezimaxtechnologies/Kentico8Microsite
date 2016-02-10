@@ -1,0 +1,22 @@
+{
+  "name": "Kentico8",
+  "version": "0.1.0",
+  "description": "Module which ensures Grunt build process form Kentico 8 microsite",
+  "contributors": [{
+    "name": "Milan Kacurak",
+    "email": "milan@kacurak.com"
+  }],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MilanKacurak/Kentico-8-microsite"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-cssmin": "~0.6.2",
+    "grunt-contrib-less": "~0.7.0",
+    "grunt-contrib-uglify": "~0.2.4",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-uncss": "^0.3.5",
+    "grunt-contrib-jshint": "~0.6.4"
+  }
+}
